@@ -75,9 +75,9 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-primary:hover {
-    border-color: #fff;
+    /* border-color: #fff; */
     background: transparent;
-    color: #fff; }
+    /* color: #fff;*/ }
   .btn.btn-black {
     border-width: 2px;
     border-color: #000;
@@ -612,7 +612,8 @@ h1, h2, h3, h4, h5,
     top: 0;
     left: 0;
     right: 0;
-    bottom: 0; }
+    bottom: 0;
+    height: inherit; }
   .hero h1 {
     font-weight: 700;
     font-size: 4rem; }
@@ -910,7 +911,7 @@ h1, h2, h3, h4, h5,
 .custom-table {
   margin-bottom: 0; }
   .custom-table thead tr th {
-    background: #0000FF
+    background: #0000FF;
     color: #fff;
     border: none; }
   .custom-table tbody tr td {
