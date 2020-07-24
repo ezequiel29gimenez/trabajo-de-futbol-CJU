@@ -481,12 +481,12 @@ h1, h2, h3, h4, h5,
       position: relative;
       color: #212529; }
       .site-mobile-menu .site-nav-wrap a:hover {
-        color: #ee1e46; }
+        color: #0000FF; }
     .site-mobile-menu .site-nav-wrap li {
       position: relative;
       display: block; }
       .site-mobile-menu .site-nav-wrap li.active > a {
-        color: #ee1e46; }
+        color: #0000FF; }
     .site-mobile-menu .site-nav-wrap .arrow-collapse {
       position: absolute;
       right: 0px;
